@@ -1,0 +1,15 @@
+{
+    "name": "pejmankheyri/smsir-woocommerce",
+    "description": "send sms via sms.ir",
+    "keywords": ["woocommerce", "wordpress", "plugin", "e-commerce", "woocommerce-persian", "sms", "sms-notifications"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pejmankheyri",
+            "email": "pejmankheyri@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
