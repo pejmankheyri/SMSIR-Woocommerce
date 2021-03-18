@@ -1,7 +1,13 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/3329008/111687753-e585cb00-883f-11eb-87d5-4535fc181f4b.jpeg" />
 </p>
-
+<p align="center">
+  <a href="https://packagist.org/packages/pejmankheyri/smsir-woocommerce"><img src="https://poser.pugx.org/pejmankheyri/smsir-woocommerce/v/stable" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/pejmankheyri/smsir-woocommerce"><img src="https://img.shields.io/packagist/dt/pejmankheyri/smsir-woocommerce" alt="Total Downloads"></a>
+  <a href="https://packagist.org/packages/pejmankheyri/smsir-woocommerce"><img src="https://poser.pugx.org/pejmankheyri/smsir-woocommerce/d/monthly" alt="Monthly Downloads"></a>
+<a href="https://packagist.org/packages/pejmankheyri/smsir-woocommerce"><img src="https://img.shields.io/github/license/pejmankheyri/smsir-woocommerce" alt="License"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpejmankheyri%2Fsmsir-woocommerce?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpejmankheyri%2Fsmsir-woocommerce.svg?type=shield"/></a>
+</p>
 <div dir="rtl">
 
 # ارسال پیامک به مشتریان در سیستم فروشگاه ساز ووکامرس
