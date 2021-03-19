@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/pejmankheyri/smsir-woocommerce"><img src="https://img.shields.io/packagist/dt/pejmankheyri/smsir-woocommerce" alt="Total Downloads"></a>
   <a href="https://packagist.org/packages/pejmankheyri/smsir-woocommerce"><img src="https://poser.pugx.org/pejmankheyri/smsir-woocommerce/d/monthly" alt="Monthly Downloads"></a>
 <a href="https://packagist.org/packages/pejmankheyri/smsir-woocommerce"><img src="https://img.shields.io/github/license/pejmankheyri/smsir-woocommerce" alt="License"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpejmankheyri%2Fsmsir-woocommerce?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpejmankheyri%2Fsmsir-woocommerce.svg?type=shield"/></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-Woocommerce?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-Woocommerce.svg?type=shield"/></a>
 </p>
 <div dir="rtl">
 
@@ -58,7 +58,7 @@
 
 ## لایسنس
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-Woocommerce.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-Woocommerce?ref=badge_small)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-Woocommerce.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-Woocommerce?ref=badge_large)
 
 </div>
 
