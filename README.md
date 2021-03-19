@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/3329008/111687753-e585cb00-883f-11eb-87d5-4535fc181f4b.jpeg" /> + 
-<img src="https://user-images.githubusercontent.com/3329008/111812613-8a121680-88ed-11eb-90c8-5ce06791241c.png" />
+<img src="https://user-images.githubusercontent.com/3329008/111814382-a31bc700-88ef-11eb-94e2-41dd10c0d2b1.png" /> + 
+<img src="https://user-images.githubusercontent.com/3329008/111814402-a8791180-88ef-11eb-8c68-79cc872bc9fb.png" />
 </p>
 <p align="center">
   <a href="https://packagist.org/packages/pejmankheyri/smsir-woocommerce"><img src="https://poser.pugx.org/pejmankheyri/smsir-woocommerce/v/stable" alt="Total Downloads"></a>
@@ -33,7 +33,7 @@
 
 ## نصب با آپلود فایل
 
-* پوشه `WoocommercePluginSMSIR-V1.0.0` را در مسیر `/wp-content/plugins/` کپی کنید.
+* پوشه `SMSIR-Woocommerce` را در مسیر `/wp-content/plugins/` کپی کنید.
 * افزونه را از طریق منوی `افزونه ها` در وردپرس فعال کنید.
 * [تنظیمات افزونه را در بخش `تنظیمات پیامک` انجام دهید.](https://github.com/pejmankheyri/SMSIR-Woocommerce#%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA)
 

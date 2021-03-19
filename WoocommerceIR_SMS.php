@@ -12,7 +12,7 @@
 
 /*
 Plugin Name: send sms via sms.ir
-Version: 1.0.0
+Version: 1.0.1
 Description: send sms via sms.ir
 Author: pejmankheyri@gmail.com
 Contributors: pejmankheyri
@@ -25,7 +25,7 @@ if (!defined('ABSPATH')) {
 }
 
 if (!defined('PS_WOO_SMS_VERSION'))
-    define('PS_WOO_SMS_VERSION', '1.0.0');
+    define('PS_WOO_SMS_VERSION', '1.0.1');
 
 if (!defined('PS_WOO_SMS_PLUGIN_PATH'))
     define('PS_WOO_SMS_PLUGIN_PATH', plugins_url('', __FILE__));
