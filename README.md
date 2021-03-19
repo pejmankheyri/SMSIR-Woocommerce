@@ -34,7 +34,7 @@
 
 * پوشه `WoocommercePluginSMSIR-V1.0.0` را در مسیر `/wp-content/plugins/` کپی کنید.
 * افزونه را از طریق منوی `افزونه ها` در وردپرس فعال کنید.
-* [تنظیمات افزونه را در بخش `پرداخت ها`ی ووکامرس انجام دهید.](https://github.com/pejmankheyri/SMSIR-Woocommerce#%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA)
+* [تنظیمات افزونه را در بخش `تنظیمات پیامک` انجام دهید.](https://github.com/pejmankheyri/SMSIR-Woocommerce#%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA)
 
 ## نصب از منوی افزونه ها
 
@@ -48,7 +48,23 @@
 
 ## امکانات
 
+* ارسال پیامک به خریدار فروشگاه در تمامی تغییر حالت های وضعیت سفارشات
+* ارسال پیامک به مدیر وبسایت در تمامی تغییر حالت های وضعیت سفارشات به همراه اتمام موجودی انبار وکاهش موجودی انبار
+* ارسال پیامک به مدیران محصول فروشگاه در تمامی تغییر حالت های وضعیت سفارشات
+* قابلیت اطلاع رسانی از طریق پیامک برای محصولات فروشگاه ووکامرس در حالت هایی که محصول حراج می شود یا موجود می شود و یا موجودی انبار کم می شود. همچنین امکان افزودن حالت دلخواه برای اطلاع رسانی وجود دارد.
+* ارسال پیامک دستی به شماره های موبایل و همچنین مخاطبین باشگاه مشتریان sms.ir
+
 ## تنظیمات
+
+* تنظیمات اصلی پلاگین شامل جدول زیر می باشد:
+
+    | تنظیمات | توضیح |
+    | ------ | ------ |
+    | لینک وب سرویس | لینک وب سرویسی که پنل ارسال پیامک از آن استفاده می کند (https://ws.sms.ir/) |
+    | کلید وب سرویس | کلید وب سرویس پنل پیامک sms.ir |
+    | کد امنیتی | کد امنیتی پنل پیامک sms.ir |
+    | شماره ارسال کننده | شماره ارسال کننده پنل پیامک sms.ir |
+    | ارسال از طریق باشگاه مشتریان | باید ماژول باشگاه مشتریان خریداری شود و سپس ارسال از آن طریق انجام می شود |
 
 ## کمک به توسعه
 
@@ -66,5 +82,15 @@
 
 ## تصاویر افزونه
 
+* <a href="https://user-images.githubusercontent.com/3329008/111809094-dc513880-88e9-11eb-9528-eae9e7b8dd0a.png" target="_blank">تصویر 01</a>
+* <a href="https://user-images.githubusercontent.com/3329008/111809118-e3784680-88e9-11eb-83e1-f7fb1c2197d8.png" target="_blank">تصویر 02</a>
+* <a href="https://user-images.githubusercontent.com/3329008/111809367-29350f00-88ea-11eb-903c-daee799a5696.png" target="_blank">تصویر 03</a>
+* <a href="https://user-images.githubusercontent.com/3329008/111809616-6a2d2380-88ea-11eb-8d84-367900d0b9d9.png" target="_blank">تصویر 04</a>
+* <a href="https://user-images.githubusercontent.com/3329008/111810246-08b98480-88eb-11eb-98d1-0e2961c1f3b4.png" target="_blank">تصویر 05</a>
+* <a href="https://user-images.githubusercontent.com/3329008/111810273-1111bf80-88eb-11eb-844e-bbca96171e10.png" target="_blank">تصویر 06</a>
+* <a href="https://user-images.githubusercontent.com/3329008/111810293-1838cd80-88eb-11eb-9257-00bcf7eaacba.png" target="_blank">تصویر 07</a>
+* <a href="https://user-images.githubusercontent.com/3329008/111810313-1ec74500-88eb-11eb-9301-30daf6fc5000.png" target="_blank">تصویر 08</a>
+* <a href="https://user-images.githubusercontent.com/3329008/111810341-2686e980-88eb-11eb-90bb-86958d865525.png" target="_blank">تصویر 09</a>
+* <a href="https://user-images.githubusercontent.com/3329008/111810366-30105180-88eb-11eb-8993-8376d18e0faf.png" target="_blank">تصویر 10</a>
 
 </div>
