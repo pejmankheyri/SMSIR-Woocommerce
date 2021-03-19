@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/3329008/111687753-e585cb00-883f-11eb-87d5-4535fc181f4b.jpeg" />
+<img src="https://user-images.githubusercontent.com/3329008/111687753-e585cb00-883f-11eb-87d5-4535fc181f4b.jpeg" /> + 
+<img src="https://user-images.githubusercontent.com/3329008/111812613-8a121680-88ed-11eb-90c8-5ce06791241c.png" />
 </p>
 <p align="center">
   <a href="https://packagist.org/packages/pejmankheyri/smsir-woocommerce"><img src="https://poser.pugx.org/pejmankheyri/smsir-woocommerce/v/stable" alt="Total Downloads"></a>
