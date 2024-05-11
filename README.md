@@ -64,8 +64,7 @@ Activate the plugin through the `Plugins` menu in WordPress
 
     | Settings | Description |
     | ------ | ------ |
-    | 
-Service Web Link | The web link for the service used for sending text messages (https://ws.sms.ir/) |
+    | Service Web Link | The web link for the service used for sending text messages (https://ws.sms.ir/) |
     | Service API Key | The API key for the text message panel service sms.ir |
     | Security Code | The security code for the text message panel sms.ir |
     | Sender Number | The sender number for the text message panel sms.ir |
